@@ -4,6 +4,7 @@
 
 
 首先点击`SSH TARGETS`右侧的配置按钮，进入`C:\Users\name\.ssh\config`进行登录配置
+![](./images/Snipaste_2023-02-28_15-14-14.png)
 ```
 # Read more about SSH config files: https://linux.die.net/man/5/ssh_config
 Host alias
